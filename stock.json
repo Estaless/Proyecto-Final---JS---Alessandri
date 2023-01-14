@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 500,
+      "id": 1,
+      "title": "Chocolates",
+      "thumbnailUrl": "/img/Chocolates.jpg"
+    },
+    {
+      "precio": 180,
+      "id": 2,
+      "title": "Alfajor",
+      "thumbnailUrl": "/img/Alfajor4.jpg"
+    },
+    {
+      "precio": 200,
+      "id": 3,
+      "title": "Brownies",
+      "thumbnailUrl": "/img/brownies.jpg"
+    },
+    {
+      "precio": 850,
+      "id": 4,
+      "title": "Pastafrola",
+      "thumbnailUrl": "/img/pasta-frola-1-FP.jpg"
+    },
+    {
+      "precio": 1500,
+      "id": 5,
+      "title": "Torta oreo",
+      "thumbnailUrl": "/img/tortaoreo.jpg"
+    },
+    {
+      "precio": 1150,
+      "id": 6,
+      "title": "Budin",
+      "thumbnailUrl": "/img/Budines.jpg"
+    }
+  ]
